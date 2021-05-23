@@ -1,0 +1,25 @@
+body{background-image: url(/imagenes/4151.jpg);}
+
+nav{width: 1330px; background-color: blanchedalmond; margin-top: 100px;}
+
+header{width: 1330px; height: 90px; margin-bottom: 10px; background-color: rgb(255, 255, 255); border-radius: 40px; position: fixed; top: 0px;}
+
+.iheader{width: 70px; height: 70px; position: relative; left: 50px; top: 10px; border-radius: 50px;}
+
+h1{position: relative;left: 170px; bottom: 70px;}
+h2{margin-left: 450px;}
+.audio1{background-color: darkslategray; margin: 100px 50px 100px 50px; border-radius: 40px;}
+.audio2{background-color: darkslategray; margin: 50px 50PX 100px 50px; border-radius: 40px;}
+
+.a1{position: relative; left: 150px; top: 30px;}
+.a2{position: relative; left: 150px; top: 30px;}
+
+h3{position: relative; left: 100px; color: aliceblue;}
+
+aside{height: 100px; background-color: black; margin-bottom: 0px;}
+footer{height: 100px ; background-color: black; margin-top: 0px;}
+
+h4{position: relative; left: 450px; top: 30px; color: blanchedalmond;}
+h5{position: relative; left: 450px; top: 30px; color: blanchedalmond;}
+
+section{margin-top: 300px;}
